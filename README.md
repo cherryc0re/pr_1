@@ -2,5 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages] (https://cherryc0re.github.io/
-pr_1/)
+- [Публичная страница на GitHub Pages](https://github.com/cherryc0re/pr_1)
